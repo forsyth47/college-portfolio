@@ -1,11 +1,11 @@
-# How to download
+# How to download #
 
-## Step 1: Click on code
+## Step 1: Click on "code" blue color button. ##
 
-## Step 2 : Click on "Download ZIP"
+## Step 2 : Click on "Download ZIP" ##
 
-## Step 3: Extract the ZIP file, Change the Name and other Stuff.
+## Step 3: Extract the ZIP file, Change the Name and other Stuff. ##
 
 ![]()
 
-## Thats it, and its Done! Cheers ;)
+## Thats it, and its Done! Cheers ;) ##
