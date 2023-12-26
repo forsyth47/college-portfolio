@@ -1,12 +1,8 @@
 # Site Preview: [Click here to see the website.](https://myportfolio07.vercel.app/)
 
-# How to download #
+## [Click here to Download](https://codeload.github.com/forsyth47/college-portfolio/zip/refs/heads/main)
 
-## Step 1: Click on "code" blue color button. ##
-
-## Step 2 : Click on "Download ZIP" ##
-
-## Step 3: Extract the ZIP file, Change the Name and other Stuff. ##
+## Extract the ZIP file, Change the Name and other Stuff and save the file. ##
 
 ![]()
 
